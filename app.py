@@ -18,6 +18,11 @@ print(Players[0].text)
 
 #Values = pageSoup.find_all("td", {"class": "rechts hauptlink"})
 
+# fees / from / to / position
+#goals / assists / yellow /red / plyrmatch / intplyr
+#carlength / sqcarelegth / teamtenure / teamtrafee
+# team league / club administration
+
 #PlayersList = []
 #ValuesList = []
 
